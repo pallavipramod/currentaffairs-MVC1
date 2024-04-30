@@ -1,2 +1,2 @@
-Simple login controller. 
-user.sql contains the related tables for the login controller
+1. Simple login controller. 
+2. user.sql contains the related tables for the login controller
